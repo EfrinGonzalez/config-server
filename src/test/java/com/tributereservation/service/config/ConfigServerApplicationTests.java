@@ -1,4 +1,4 @@
-package com.roomreservation.service.config;
+package com.tributereservation.service.config;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
